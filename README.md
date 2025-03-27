@@ -2,7 +2,9 @@
 
 Welcome to my collection of **Computer Vision** projects. This repository features various applications that leverage image processing, deep learning, and visual data analysis to solve real-world problems.
 
----
+<p align="center">
+  <img src="computer_vision.png" width="500" style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);">
+</p>
 
 ## 📁 Projects Included
 
